@@ -1,10 +1,10 @@
 /*
    * Create By ??????s?r??
-   * Contactame en Wa wa.me/593991398786
+   * Contactame en Wa wa.me/18292077732
    * Follow https://github.com/CarlosTwT
    * Gracias a Hisoka por la base!
    * Este script es completamente *GRATIS* se precavido de los estafadores.
-   * Si intentas comercializar este script podr��as tener problemas legales!   
+   * Si intentas comercializar este script podr¨ªas tener problemas legales!   
 */
 
 const fs = require('fs')
@@ -30,22 +30,22 @@ global.APIKeys = {
     'https://api.xteam.xyz': 'TU APIKEY', //puedes ingresar al sitio web y conseguir tu api
     'https://api-ryubotz.herokuapp.com': 'RyuBotz', //api ilimitada
     'http://brizas-api.herokuapp.com': 'TU APIKEY', //puedes ingresar al sitio web y conseguir tu api 
-    'https://api.violetics.pw': 'TU APIKEY', //ingresa al sitio y crea tu cuenta, tendr��s una api de 1000 request, col��cala aqu�� para que los logos funcionen 
+    'https://api.violetics.pw': 'TU APIKEY', //ingresa al sitio y crea tu cuenta, tendr¨¢s una api de 1000 request, col¨®cala aqu¨ª para que los logos funcionen 
     'https://api-alc.herokuapp.com': 'ConfuMods', //api ilimitada
     'https://lzmods-api.xyz': 'Tu apikey', //puedes ingresar al sitio web y conseguir tu api
     'https://leyscoders-api.herokuapp.com': 'MIMINGANZ', //api ilimitada
 }
-//disculpas si unas apis no las coloco, :( son gratuitas y tienen l��mite, ingresa al sitio web de cada api, inicialo y coloca tu propia apikey!
+//disculpas si unas apis no las coloco, :( son gratuitas y tienen l¨ªmite, ingresa al sitio web de cada api, inicialo y coloca tu propia apikey!
 // Owner
 global.owner = ['593991398786','14162776464'] //tu numero 
 global.ownernomer = '593991398786' //tu numero
 global.premium = ['593991398786'] //numero de usuarios premiums
 global.ownername = 'CrlsOps^' //tu nombre
-global.botname = '𝙺 𝙸 𝚃 𝚉 𝙸 𝙰 - 𝙼 𝙳' //nombre bot
-global.footer = '𝙺 𝙸 𝚃 𝚉 𝙸 𝙰 - 𝙼 𝙳' //name bot
+global.botname = 'ð™º ð™¸ ðšƒ ðš‰ ð™¸ ð™° - ð™¼ ð™³' //nombre bot
+global.footer = 'ð™º ð™¸ ðšƒ ðš‰ ð™¸ ð™° - ð™¼ ð™³' //name bot
 global.email = 'carlos.e.escobarmc@gmail.com' //gmail
 global.ig = 'https://instagram.com/c4rlos_9e' //Instagram
-global.region = 'Planet Equador' //cualquier ubicaci��n
+global.region = 'Planet Equador' //cualquier ubicaci¨®n
 
 // Botones
 global.linkbot = 'https://linkr.bio/KitziaBotMD' //todos los links tienen que comenzar con https://
@@ -72,21 +72,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 // Lainnya
 global.sessionName = 'session' //nombre session.json
 global.prefa = ['#'] //prefic global
-global.sp = '�?' //sp global 
+global.sp = 'âŒ?' //sp global 
 
 // Mess wait & Premium
 global.mess = {
-    success: '�? Listo', //mensaje listo
+    success: 'âœ? Listo', //mensaje listo
     admin: 'Funciones especiales para el administrador del grupo!', //mensaje para admins
-    botAdmin: 'Necesito ser administrado para tener acceso a esa funci��n!', //mensajes no adm bot
+    botAdmin: 'Necesito ser administrado para tener acceso a esa funci¨®n!', //mensajes no adm bot
     owner: 'Funciones especiales para el creador del bot', //mensaje creador
     group: 'Funciones bloqueadas para uso privado\nusalo en un grupo!', //mensaje solo grupo
     private: 'Funciones solo validas para chat privado!', //mensaje solo chat pv
     listo: 'Hecho', //mensaje hecho
-    bot: 'Funciones especiales para el usuario con el número de bot', //msg bot
+    bot: 'Funciones especiales para el usuario con el nÃºmero de bot', //msg bot
     wait: 'Cargando...', //mensaje wait
-    endLimit: 'Su límite diario ha expirado, el límite se restablecerá cada 12 horas', //limites
-    endGLimit: 'Su límite diario de juego ha expirado, el límite se restablecerá cada 12 horas', //limites
+    endLimit: 'Su lÃ­mite diario ha expirado, el lÃ­mite se restablecerÃ¡ cada 12 horas', //limites
+    endGLimit: 'Su lÃ­mite diario de juego ha expirado, el lÃ­mite se restablecerÃ¡ cada 12 horas', //limites
 }
 global.limitharian = "5" //limite para pedidos
 global.limitgame = "20" //limites para juegos 
